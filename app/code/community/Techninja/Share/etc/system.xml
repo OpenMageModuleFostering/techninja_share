@@ -1,18 +1,14 @@
 <?xml version="1.0" ?>
 
-
 <config>
-
-   
-
     <tabs>
-        <techninja_tab module="share" translate="label">
+        <techninja_tab translate="label">
             <label>Tech Ninja</label>
             <sort_order>1000</sort_order>
         </techninja_tab>
     </tabs>
     <sections>
-        <share module="share" translate="label">
+        <share translate="label">
             <label>ShareThis Buttons</label>
             <sort_order>200</sort_order>
             <show_in_default>1</show_in_default>
