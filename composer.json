@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Techninja_Share",
+    "name": "OpenMageModuleFostering\/Techninja_Share",
     "type": "magento-module",
     "license": "GNU-General-Public-License-(GPL)",
     "homepage": "",
     "description": "ShareThis.com module for Magento",
     "authors": [
-    {
-        "name": "Mike The Tech Ninja Whittenberger",
-        "email": "mwhittenberger@yahoo.com"
-    }
-],
+        {
+            "name": "Mike The Tech Ninja Whittenberger",
+            "email": "mwhittenberger@yahoo.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
